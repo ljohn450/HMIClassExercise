@@ -1,0 +1,6 @@
+{
+  "name": "HealAI Enterprise",
+  "description": "Collaborative clinical virtual-office portal featuring four specialized healthcare AI agents for multi-agent clinical processing, dataset validation, and dynamic results dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
